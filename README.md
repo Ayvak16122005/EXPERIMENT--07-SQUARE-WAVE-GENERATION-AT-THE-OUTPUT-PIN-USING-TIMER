@@ -3,6 +3,7 @@
 ## Roll no : 2305003004
 ## DEPARTMENT: B.TECH ARTIFICIAL INTELLEGENCE AND MACHINE LEARNING
 ## Date of experiment :
+
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
